@@ -1,2 +1,2 @@
 # Sberbank_Banki_Ru
-notebook for work tasks
+notebook parser for work tasks
